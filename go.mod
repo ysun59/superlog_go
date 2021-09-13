@@ -1,4 +1,4 @@
-module github.com/YesZhen/superlog_go
+module github.com/ysun59/superlog_go
 
 go 1.16
 

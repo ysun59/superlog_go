@@ -3,7 +3,7 @@ package superlog_go
 import (
 	// "fmt"
 	"testing"
-	// "github.com/YesZhen/superlog_go/superlog"
+	// "github.com/ysun59/superlog_go/superlog"
 )
 
 // func TestLog(t *testing.T) {
